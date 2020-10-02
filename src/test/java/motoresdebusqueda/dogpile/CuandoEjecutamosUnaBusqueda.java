@@ -30,7 +30,7 @@ public class CuandoEjecutamosUnaBusqueda {
     {
             juan.ingresar_a_dogpile();
             juan.busca_por_palabra_clave("rock nacional");
-            juan.deberia_ver_resultado_wikipedia_texto_correcto("Argentine rock - Wikipedia","Argentine Rock Nacional is one of the principal predecessors");
+            juan.deberia_ver_resultado_wikipedia_texto_correcto("Argentine rock - Wikipedia","Argentine rock (known locally as rock nacional");
 
     }
 }
